@@ -1,0 +1,6 @@
+Customer ID,Name,Phone,Email,Shipping Address,Billing Address,Purchase History
+1001,"John Doe","123-456-7890","johndoe@email.com","123 Main St, City, State","123 Main St, City, State","Modular Sofa"
+1002,"Jane Smith","234-567-8901","janesmith@email.com","456 Elm St, Another City, State","789 Oak St, Another City, State","Eco Coffee Table, Folding Chair"
+1003,"Alice Johnson","345-678-9012","alicej@email.com","789 Oak St, Different City, State","789 Oak St, Different City, State","Compact Desk"
+1004,"Bob Williams","456-789-0123","bobw@email.com","159 Maple Ave, City, State","159 Maple Ave, City, State","Storage Ottoman"
+1005,"Carol Brown","567-890-1234","carolb@email.com","321 Pine St, City, State","321 Pine St, City, State","Eco Coffee Table"

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<orders>
+    <order>
+        <orderId>3001</orderId>
+        <customerId>1001</customerId>
+        <productIds>1</productIds>
+	<employeeId>4002</employeeId>
+        <quantity>1</quantity>
+        <totalPrice>899.99</totalPrice>
+        <orderDate>2023-06-01</orderDate>
+        <estimatedDeliveryDate>2023-06-08</estimatedDeliveryDate>
+        <deliveryStatus>Delivered</deliveryStatus>
+        <paymentStatus>Paid</paymentStatus>
+    </order>
+    <order>
+        <orderId>3002</orderId>
+        <customerId>1002</customerId>
+        <productIds>2, 4</productIds>
+	<employeeId>4002</employeeId>
+        <quantity>2</quantity>
+        <totalPrice>499.98</totalPrice>
+        <orderDate>2023-06-05</orderDate>
+        <estimatedDeliveryDate>2023-06-12</estimatedDeliveryDate>
+        <deliveryStatus>In Transit</deliveryStatus>
+        <paymentStatus>Paid</paymentStatus>
+    </order>
+    <order>
+        <orderId>3003</orderId>
+        <customerId>1003</customerId>
+        <productIds>3</productIds>
+	<employeeId>4002</employeeId>
+        <quantity>1</quantity>
+        <totalPrice>499.99</totalPrice>
+        <orderDate>2023-06-07</orderDate>
+        <estimatedDeliveryDate>2023-06-14</estimatedDeliveryDate>
+        <deliveryStatus>Processing</deliveryStatus>
+        <paymentStatus>Unpaid</paymentStatus>
+    </order>
+    <order>
+        <orderId>3004</orderId>
+        <customerId>1004</customerId>
+        <productIds>5</productIds>
+	<employeeId>4002</employeeId>
+        <quantity>1</quantity>
+        <totalPrice>159.99</totalPrice>
+        <orderDate>2023-06-10</orderDate>
+        <estimatedDeliveryDate>2023-06-17</estimatedDeliveryDate>
+        <deliveryStatus>Delivered</deliveryStatus>
+        <paymentStatus>Paid</paymentStatus>
+    </order>
+    <order>
+        <orderId>3005</orderId>
+        <customerId>1005</customerId>
+        <productIds>2</productIds>
+	<employeeId>4002</employeeId>
+        <quantity>1</quantity>
+        <totalPrice>299.99</totalPrice>
+        <orderDate>2023-06-12</orderDate>
+        <estimatedDeliveryDate>2023-06-19</estimatedDeliveryDate>
+        <deliveryStatus>In Transit</deliveryStatus>
+        <paymentStatus>Paid</paymentStatus>
+    </order>
+</orders>

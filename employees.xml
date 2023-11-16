@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<employees>
+    <employee>
+        <employeeId>4001</employeeId>
+        <name>Emma Thompson</name>
+        <rolePosition>Designer</rolePosition>
+        <contactInformation>emma@furniture.com</contactInformation>
+        <department>Design</department>
+        <hireDate>2021-01-15</hireDate>
+        <salary>55000</salary>
+    </employee>
+    <employee>
+        <employeeId>4002</employeeId>
+        <name>Michael Roberts</name>
+        <rolePosition>Sales Manager</rolePosition>
+        <contactInformation>michael@furniture.com</contactInformation>
+        <department>Sales</department>
+        <hireDate>2019-07-22</hireDate>
+        <salary>60000</salary>
+    </employee>
+    <employee>
+        <employeeId>4003</employeeId>
+        <name>Lisa Johnson</name>
+        <rolePosition>HR Manager</rolePosition>
+        <contactInformation>lisa@furniture.com</contactInformation>
+        <department>Human Resources</department>
+        <hireDate>2020-03-05</hireDate>
+        <salary>58000</salary>
+    </employee>
+    <employee>
+        <employeeId>4004</employeeId>
+        <name>David Lee</name>
+        <rolePosition>Supply Chain Coordinator</rolePosition>
+        <contactInformation>david@furniture.com</contactInformation>
+        <department>Supply Chain</department>
+        <hireDate>2022-05-18</hireDate>
+        <salary>52000</salary>
+    </employee>
+    <employee>
+        <employeeId>4005</employeeId>
+        <name>Maria Garcia</name>
+        <rolePosition>Marketing Specialist</rolePosition>
+        <contactInformation>maria@furniture.com</contactInformation>
+        <department>Marketing</department>
+        <hireDate>2021-08-30</hireDate>
+        <salary>50000</salary>
+    </employee>
+</employees>

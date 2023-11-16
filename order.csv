@@ -1,0 +1,6 @@
+Order ID,Customer ID,Product IDs,Employee ID,Quantity,Total Price,Order Date,Estimated Delivery Date,Delivery Status,Payment Status
+3001,1001,1,4002,1,899.99,6/1/2023,6/8/2023,Delivered,Paid
+3002,1002,"2, 4",4002,2,499.98,6/5/2023,6/12/2023,In Transit,Paid
+3003,1003,3,4002,1,499.99,6/7/2023,6/14/2023,Processing,Unpaid
+3004,1004,5,4002,1,159.99,6/10/2023,6/17/2023,Delivered,Paid
+3005,1005,2,4002,1,299.99,6/12/2023,6/19/2023,In Transit,Paid

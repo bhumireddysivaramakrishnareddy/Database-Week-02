@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suppliers>
+    <supplier>
+        <supplierId>2001</supplierId>
+        <name>Bamboo World</name>
+        <contactInformation>contact@bambooworld.com</contactInformation>
+        <materialProvided>Bamboo</materialProvided>
+        <location>China</location>
+        <sustainabilityRating>4.5</sustainabilityRating>
+        <deliveryLeadTimes>14 days</deliveryLeadTimes>
+        <contractTerms>1-year contract</contractTerms>
+    </supplier>
+    <supplier>
+        <supplierId>2002</supplierId>
+        <name>Recycle Hub</name>
+        <contactInformation>info@recyclehub.com</contactInformation>
+        <materialProvided>Recycled Plastic</materialProvided>
+        <location>USA</location>
+        <sustainabilityRating>4.7</sustainabilityRating>
+        <deliveryLeadTimes>7 days</deliveryLeadTimes>
+        <contractTerms>6-month contract</contractTerms>
+    </supplier>
+    <supplier>
+        <supplierId>2003</supplierId>
+        <name>Cotton Pure</name>
+        <contactInformation>support@cottonpure.com</contactInformation>
+        <materialProvided>Organic Cotton, Bamboo</materialProvided>
+        <location>India</location>
+        <sustainabilityRating>4.6</sustainabilityRating>
+        <deliveryLeadTimes>10 days</deliveryLeadTimes>
+        <contractTerms>1-year contract</contractTerms>
+    </supplier>
+    <supplier>
+        <supplierId>2004</supplierId>
+        <name>Green Plastics Co.</name>
+        <contactInformation>sales@greenplastics.co</contactInformation>
+        <materialProvided>Recycled Plastic, Bamboo</materialProvided>
+        <location>Germany</location>
+        <sustainabilityRating>4.8</sustainabilityRating>
+        <deliveryLeadTimes>12 days</deliveryLeadTimes>
+        <contractTerms>2-year contract</contractTerms>
+    </supplier>
+    <supplier>
+        <supplierId>2005</supplierId>
+        <name>Natural Bamboo Supplies</name>
+        <contactInformation>service@naturalbamboo.com</contactInformation>
+        <materialProvided>Bamboo</materialProvided>
+        <location>Vietnam</location>
+        <sustainabilityRating>4.4</sustainabilityRating>
+        <deliveryLeadTimes>15 days</deliveryLeadTimes>
+        <contractTerms>1-year contract</contractTerms>
+    </supplier>
+</suppliers>

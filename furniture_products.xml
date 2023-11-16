@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<furnitureProducts>
+    <product>
+        <productId>1</productId>
+        <supplierId>2003</supplierId>
+        <name>Modular Sofa</name>
+        <type>Sofa</type>
+        <materialComposition>Bamboo, Organic Cotton</materialComposition>
+        <price>899.99</price>
+    </product>
+    <product>
+        <productId>2</productId>
+        <supplierId>2002</supplierId>
+        <name>Eco Coffee Table</name>
+        <type>Table</type>
+        <materialComposition>Recycled Plastic</materialComposition>
+        <price>299.99</price>
+    </product>
+    <product>
+        <productId>3</productId>
+        <supplierId>2001</supplierId>
+        <name>Compact Desk</name>
+        <type>Desk</type>
+        <materialComposition>Bamboo</materialComposition>
+        <price>499.99</price>
+    </product>
+    <product>
+        <productId>4</productId>
+        <supplierId>2004</supplierId>
+        <name>Folding Chair</name>
+        <type>Chair</type>
+        <materialComposition>Bamboo, Recycled Plastic</materialComposition>
+        <price>199.99</price>
+    </product>
+    <product>
+        <productId>5</productId>
+        <supplierId>2003</supplierId>
+        <name>Storage Ottoman</name>
+        <type>Ottoman</type>
+        <materialComposition>Organic Cotton</materialComposition>
+        <price>159.99</price>
+    </product>
+</furnitureProducts>

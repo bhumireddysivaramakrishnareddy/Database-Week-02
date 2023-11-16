@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customers>
+    <customer>
+        <customerId>1001</customerId>
+        <name>John Doe</name>
+        <phone>123-456-7890</phone>
+        <email>johndoe@email.com</email>
+        <shippingAddress>123 Main St, City, State</shippingAddress>
+        <billingAddress>123 Main St, City, State</billingAddress>
+        <purchaseHistory>Modular Sofa</purchaseHistory>
+    </customer>
+    <customer>
+        <customerId>1002</customerId>
+        <name>Jane Smith</name>
+        <phone>234-567-8901</phone>
+        <email>janesmith@email.com</email>
+        <shippingAddress>456 Elm St, Another City, State</shippingAddress>
+        <billingAddress>789 Oak St, Another City, State</billingAddress>
+        <purchaseHistory>Eco Coffee Table, Folding Chair</purchaseHistory>
+    </customer>
+    <customer>
+        <customerId>1003</customerId>
+        <name>Alice Johnson</name>
+        <phone>345-678-9012</phone>
+        <email>alicej@email.com</email>
+        <shippingAddress>789 Oak St, Different City, State</shippingAddress>
+        <billingAddress>789 Oak St, Different City, State</billingAddress>
+        <purchaseHistory>Compact Desk</purchaseHistory>
+    </customer>
+    <customer>
+        <customerId>1004</customerId>
+        <name>Bob Williams</name>
+        <phone>456-789-0123</phone>
+        <email>bobw@email.com</email>
+        <shippingAddress>159 Maple Ave, City, State</shippingAddress>
+        <billingAddress>159 Maple Ave, City, State</billingAddress>
+        <purchaseHistory>Storage Ottoman</purchaseHistory>
+    </customer>
+    <customer>
+        <customerId>1005</customerId>
+        <name>Carol Brown</name>
+        <phone>567-890-1234</phone>
+        <email>carolb@email.com</email>
+        <shippingAddress>321 Pine St, City, State</shippingAddress>
+        <billingAddress>321 Pine St, City, State</billingAddress>
+        <purchaseHistory>Eco Coffee Table</purchaseHistory>
+    </customer>
+</customers>
